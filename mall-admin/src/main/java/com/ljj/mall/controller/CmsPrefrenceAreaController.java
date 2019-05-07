@@ -14,8 +14,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.util.List;
 
 /**
- * 商品优选管理Controller
- * Created by ljj on 2018/6/1.
+ * @Description: 商品优选管理Controller
+ * @author LeeJack
+ * @Date 13:49 2019/5/4/004
  */
 @Controller
 @Api(tags = "CmsPrefrenceAreaController", description = "商品优选管理")

@@ -6,8 +6,9 @@ import io.swagger.annotations.ApiModelProperty;
 import java.util.List;
 
 /**
- * 创建和修改商品时使用的参数
- * Created by ljj on 2018/4/26.
+ * @Description: 创建和修改商品时使用的参数
+ * @author LeeJack
+ * @Date 21:46 2019/5/4/004
  */
 public class PmsProductParam extends PmsProduct{
     @ApiModelProperty("商品阶梯价格设置")

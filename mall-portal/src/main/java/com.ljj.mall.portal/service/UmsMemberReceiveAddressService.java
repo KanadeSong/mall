@@ -5,8 +5,9 @@ import com.ljj.mall.model.UmsMemberReceiveAddress;
 import java.util.List;
 
 /**
- * 用户地址管理Service
- * Created by ljj on 2018/8/28.
+ * @Description: 用户地址管理Service
+ * @author LeeJack
+ * @Date 18:48 2019/5/5/005
  */
 public interface UmsMemberReceiveAddressService {
     /**

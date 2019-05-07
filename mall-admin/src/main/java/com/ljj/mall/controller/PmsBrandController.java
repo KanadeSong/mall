@@ -17,8 +17,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 品牌功能Controller
- * Created by ljj on 2018/4/26.
+ * @Description: 品牌功能Controller
+ * @author LeeJack
+ * @Date 18:25 2019/5/4/004
  */
 @Controller
 @Api(tags = "PmsBrandController", description = "商品品牌管理")

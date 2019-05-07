@@ -9,8 +9,11 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 /**
- * 首页内容管理自定义Dao
- * Created by ljj on 2019/1/28.
+ * @Description: 首页内容管理自定义Dao
+ * @Param
+ * @return
+ * @author LeeJack
+ * @Date 19:02 2019/5/5/005
  */
 public interface HomeDao {
 

@@ -4,8 +4,9 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * MyBatis配置类
- * Created by ljj on 2019/4/8.
+ * @Description: MyBatis配置类
+ * @author LeeJack
+ * @Date 21:17 2019/5/6/006
  */
 @Configuration
 @MapperScan({"com.ljj.mall.mapper","com.ljj.mall.search.dao"})

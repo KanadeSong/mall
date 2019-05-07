@@ -1,8 +1,9 @@
 package com.ljj.mall.dto;
 
 /**
- * 查询单个产品进行修改时返回的结果
- * Created by macro on 2018/4/26.
+ * @Description: 查询单个产品进行修改时返回的结果
+ * @author LeeJack
+ * @Date 21:46 2019/5/4/004
  */
 public class PmsProductResult extends PmsProductParam {
     //商品所选分类的父id

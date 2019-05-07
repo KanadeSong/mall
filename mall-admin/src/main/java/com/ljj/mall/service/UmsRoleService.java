@@ -7,8 +7,9 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * 后台角色管理Service
- * Created by macro on 2018/9/30.
+ * @Description: 后台角色管理Service
+ * @author LeeJack
+ * @Date 22:00 2019/5/4/004
  */
 public interface UmsRoleService {
     /**

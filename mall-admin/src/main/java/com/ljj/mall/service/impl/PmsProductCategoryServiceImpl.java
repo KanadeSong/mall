@@ -19,8 +19,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * PmsProductCategoryService实现类
- * Created by ljj on 2018/4/26.
+ * @Description: PmsProductCategoryService实现类
+ * @author LeeJack
+ * @Date 22:11 2019/5/4/004
  */
 @Service
 public class PmsProductCategoryServiceImpl implements PmsProductCategoryService {

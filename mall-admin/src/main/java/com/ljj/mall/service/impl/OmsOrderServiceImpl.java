@@ -18,8 +18,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * 订单管理Service实现类
- * Created by ljj on 2018/10/11.
+ * @Description: 订单管理Service实现类
+ * @author LeeJack
+ * @Date 22:10 2019/5/4/004
  */
 @Service
 public class OmsOrderServiceImpl implements OmsOrderService {

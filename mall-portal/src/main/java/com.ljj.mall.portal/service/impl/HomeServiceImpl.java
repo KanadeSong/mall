@@ -17,8 +17,9 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * 首页内容管理Service实现类
- * Created by ljj on 2019/1/28.
+ * @Description: 首页内容管理Service实现类
+ * @author LeeJack
+ * @Date 18:49 2019/5/5/005
  */
 @Service
 public class HomeServiceImpl implements HomeService {

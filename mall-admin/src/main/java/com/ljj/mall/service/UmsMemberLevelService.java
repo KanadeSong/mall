@@ -5,8 +5,9 @@ import com.ljj.mall.model.UmsMemberLevel;
 import java.util.List;
 
 /**
- * 会员等级管理Service
- * Created by macro on 2018/4/26.
+ * @Description: 会员等级管理Service
+ * @author LeeJack
+ * @Date 22:00 2019/5/4/004
  */
 public interface UmsMemberLevelService {
     /**

@@ -10,8 +10,9 @@ import lombok.Setter;
 import java.util.List;
 
 /**
- * 首页内容返回信息封装
- * Created by ljj on 2019/1/28.
+ * @Description: 首页内容返回信息封装
+ * @author LeeJack
+ * @Date 17:49 2019/5/5/005
  */
 @Getter
 @Setter

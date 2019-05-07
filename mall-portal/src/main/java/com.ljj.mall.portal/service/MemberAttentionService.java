@@ -5,8 +5,9 @@ import com.ljj.mall.portal.domain.MemberBrandAttention;
 import java.util.List;
 
 /**
- * 会员关注Service
- * Created by ljj on 2018/8/2.
+ * @Description: 会员关注Service
+ * @author LeeJack
+ * @Date 18:46 2019/5/5/005
  */
 public interface MemberAttentionService {
     /**

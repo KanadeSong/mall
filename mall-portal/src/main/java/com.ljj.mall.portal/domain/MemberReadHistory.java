@@ -7,8 +7,9 @@ import org.springframework.data.mongodb.core.mapping.Document;
 import java.util.Date;
 
 /**
- * 用户商品浏览历史记录
- * Created by ljj on 2018/8/3.
+ * @Description: 用户商品浏览历史记录
+ * @author LeeJack
+ * @Date 18:00 2019/5/5/005
  */
 @Document
 public class MemberReadHistory {

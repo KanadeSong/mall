@@ -6,8 +6,9 @@ import com.ljj.mall.portal.domain.CartPromotionItem;
 import java.util.List;
 
 /**
- * Created by ljj on 2018/8/27.
- * 促销管理Service
+ * @Description: 促销管理Service
+ * @author LeeJack
+ * @Date 18:47 2019/5/5/005
  */
 public interface OmsPromotionService {
     /**

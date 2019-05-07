@@ -4,8 +4,11 @@ import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;
 
 /**
- * 状态标记校验器
- * Created by macro on 2018/4/26.
+ * @Description: 状态标记校验器
+ * @Param
+ * @return
+ * @author LeeJack
+ * @Date 21:14 2019/5/4/004
  */
 public class FlagValidatorClass implements ConstraintValidator<FlagValidator, Integer> {
     private String[] values;

@@ -3,8 +3,9 @@ package com.ljj.mall.portal.service;
 import com.ljj.mall.portal.domain.OmsOrderReturnApplyParam;
 
 /**
- * 订单退货管理Service
- * Created by ljj on 2018/10/17.
+ * @Description: 订单退货管理Service
+ * @author LeeJack
+ * @Date 18:47 2019/5/5/005
  */
 public interface OmsPortalOrderReturnApplyService {
     /**

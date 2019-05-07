@@ -18,8 +18,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 商品分类模块Controller
- * Created by ljj on 2018/4/26.
+ * @Description: 商品分类模块Controller
+ * @author LeeJack
+ * @Date 18:39 2019/5/4/004
  */
 @Controller
 @Api(tags = "PmsProductCategoryController", description = "商品分类管理")

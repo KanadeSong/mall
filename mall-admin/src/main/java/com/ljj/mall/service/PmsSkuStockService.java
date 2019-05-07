@@ -5,8 +5,9 @@ import com.ljj.mall.model.PmsSkuStock;
 import java.util.List;
 
 /**
- * sku商品库存管理Service
- * Created by macro on 2018/4/27.
+ * @Description: sku商品库存管理Service
+ * @author LeeJack
+ * @Date 21:58 2019/5/4/004
  */
 public interface PmsSkuStockService {
     /**

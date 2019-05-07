@@ -9,8 +9,9 @@ import java.util.Arrays;
 import java.util.Collection;
 
 /**
- * 会员详情封装
- * Created by ljj on 2018/8/3.
+ * @Description: 会员详情封装
+ * @author LeeJack
+ * @Date 17:59 2019/5/5/005
  */
 public class MemberDetails implements UserDetails {
     private UmsMember umsMember;

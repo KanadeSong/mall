@@ -20,8 +20,9 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * 购物车管理Service实现类
- * Created by ljj on 2018/8/2.
+ * @Description: 购物车管理Service实现类
+ * @author LeeJack
+ * @Date 18:50 2019/5/5/005
  */
 @Service
 public class OmsCartItemServiceImpl implements OmsCartItemService {

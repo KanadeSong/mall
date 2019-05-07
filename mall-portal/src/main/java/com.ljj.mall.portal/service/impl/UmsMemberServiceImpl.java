@@ -25,8 +25,9 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * 会员管理Service实现类
- * Created by ljj on 2018/8/3.
+ * @Description: 会员管理Service实现类
+ * @author LeeJack
+ * @Date 18:51 2019/5/5/005
  */
 @Service
 public class UmsMemberServiceImpl implements UmsMemberService {

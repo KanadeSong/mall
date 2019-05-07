@@ -8,8 +8,9 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
 /**
- * tomcat相关配置
- * Created by ljj on 2018/8/7.
+ * @Description: tomcat相关配置
+ * @author LeeJack
+ * @Date 18:07 2019/5/5/005
  */
 @Profile("dev")
 @Configuration

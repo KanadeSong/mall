@@ -9,7 +9,8 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * Created by ljj on 2018/8/6.
+ * @author LeeJack
+ * @Date 18:44 2019/5/5/005
  */
 public class GoLogoutSuccessHandler implements LogoutSuccessHandler {
     @Override

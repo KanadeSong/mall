@@ -14,8 +14,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 订单管理Controller
- * Created by ljj on 2018/10/11.
+ * @Description: 订单管理Controller
+ * @author LeeJack
+ * @Date 14:21 2019/5/4/004
  */
 @Controller
 @Api(tags = "OmsOrderController", description = "订单管理")

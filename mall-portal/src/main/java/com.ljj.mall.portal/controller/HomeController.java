@@ -15,8 +15,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 首页内容管理Controller
- * Created by ljj on 2019/1/28.
+ * @Description: 首页内容管理Controller
+ * @author LeeJack
+ * @Date 19:03 2019/5/5/005
  */
 @Controller
 @Api(tags = "HomeController", description = "首页内容管理")

@@ -5,8 +5,9 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * 订单查询参数
- * Created by macro on 2018/10/11.
+ * @Description: 订单查询参数
+ * @author LeeJack
+ * @Date 21:42 2019/5/4/004
  */
 @Getter
 @Setter

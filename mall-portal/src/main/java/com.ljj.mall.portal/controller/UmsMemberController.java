@@ -12,8 +12,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * 会员登录注册管理Controller
- * Created by ljj on 2018/8/3.
+ * @Description: 会员登录注册管理Controller
+ * @author LeeJack
+ * @Date 19:04 2019/5/5/005
  */
 @Controller
 @Api(tags = "UmsMemberController", description = "会员登录注册管理")

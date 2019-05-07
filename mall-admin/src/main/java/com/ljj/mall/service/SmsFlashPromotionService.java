@@ -5,8 +5,9 @@ import com.ljj.mall.model.SmsFlashPromotion;
 import java.util.List;
 
 /**
- * 限时购活动管理Service
- * Created by macro on 2018/11/16.
+ * @Description: 限时购活动管理Service
+ * @author LeeJack
+ * @Date 21:59 2019/5/4/004
  */
 public interface SmsFlashPromotionService {
     /**

@@ -1,8 +1,9 @@
 package com.ljj.mall.portal.domain;
 
 /**
- * 生成订单时传入的参数
- * Created by ljj on 2018/8/30.
+ * @Description: 生成订单时传入的参数
+ * @author LeeJack
+ * @Date 18:02 2019/5/5/005
  */
 public class OrderParam {
     //收货地址id

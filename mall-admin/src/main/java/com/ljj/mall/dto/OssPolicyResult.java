@@ -1,8 +1,9 @@
 package com.ljj.mall.dto;
 
 /**
- * 获取OSS上传授权返回结果
- * Created by macro on 2018/5/17.
+ * @Description: 获取OSS上传授权返回结果
+ * @author LeeJack
+ * @Date 21:45 2019/5/4/004
  */
 public class OssPolicyResult {
     private String accessKeyId;

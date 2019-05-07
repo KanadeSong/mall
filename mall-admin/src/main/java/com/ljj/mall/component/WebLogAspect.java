@@ -30,8 +30,11 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * 统一日志处理切面
- * Created by ljj on 2018/4/26.
+ * @Description: 统一日志处理切面
+ * @Param
+ * @return
+ * @author LeeJack
+ * @Date 21:27 2019/5/4/004
  */
 @Aspect
 @Component

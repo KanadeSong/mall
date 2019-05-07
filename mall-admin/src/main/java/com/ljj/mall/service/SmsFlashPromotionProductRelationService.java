@@ -7,8 +7,9 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * 限时购商品关联管理Service
- * Created by macro on 2018/11/16.
+ * @Description: 限时购商品关联管理Service
+ * @author LeeJack
+ * @Date 21:59 2019/5/4/004
  */
 public interface SmsFlashPromotionProductRelationService {
     /**

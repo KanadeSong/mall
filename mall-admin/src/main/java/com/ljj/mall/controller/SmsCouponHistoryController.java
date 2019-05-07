@@ -16,8 +16,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.util.List;
 
 /**
- * 优惠券领取记录管理Controller
- * Created by ljj on 2018/11/6.
+ * @Description: 优惠券领取记录管理Controller
+ * @author LeeJack
+ * @Date 18:40 2019/5/4/004
  */
 @Controller
 @Api(tags = "SmsCouponHistoryController", description = "优惠券领取记录管理")

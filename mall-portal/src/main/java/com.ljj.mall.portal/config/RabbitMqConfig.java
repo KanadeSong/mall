@@ -6,8 +6,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * 消息队列配置
- * Created by ljj on 2018/9/14.
+ * @Description: 消息队列配置
+ * @author LeeJack
+ * @Date 18:06 2019/5/5/005
  */
 @Configuration
 public class RabbitMqConfig {

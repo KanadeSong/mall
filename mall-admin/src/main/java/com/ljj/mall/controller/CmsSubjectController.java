@@ -16,8 +16,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.util.List;
 
 /**
- * 商品专题Controller
- * Created by ljj on 2018/6/1.
+ * @Description: 商品专题Controller
+ * @author LeeJack
+ * @Date 13:58 2019/5/4/004
  */
 @Controller
 @Api(tags = "CmsSubjectController", description = "商品专题管理")

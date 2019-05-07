@@ -5,8 +5,9 @@ import com.ljj.mall.model.OmsCartItem;
 import java.math.BigDecimal;
 
 /**
- * Created by ljj on 2018/8/27.
- * 购物车中促销信息的封装
+ * @Description: 购物车中促销信息的封装
+ * @author LeeJack
+ * @Date 17:47 2019/5/5/005
  */
 public class CartPromotionItem extends OmsCartItem{
     //促销活动信息

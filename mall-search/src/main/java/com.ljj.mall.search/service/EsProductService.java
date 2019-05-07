@@ -7,8 +7,9 @@ import org.springframework.data.domain.Page;
 import java.util.List;
 
 /**
- * 商品搜索管理Service
- * Created by ljj on 2018/6/19.
+ * @Description: 商品搜索管理Service
+ * @author LeeJack
+ * @Date 21:22 2019/5/6/006
  */
 public interface EsProductService {
     /**

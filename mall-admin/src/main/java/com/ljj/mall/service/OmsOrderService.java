@@ -7,8 +7,9 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * 订单管理Service
- * Created by macro on 2018/10/11.
+ * @Description: 订单管理Service
+ * @author LeeJack
+ * @Date 21:57 2019/5/4/004
  */
 public interface OmsOrderService {
     /**

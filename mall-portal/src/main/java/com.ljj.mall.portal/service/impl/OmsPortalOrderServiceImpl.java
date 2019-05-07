@@ -20,8 +20,9 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 /**
- * 前台订单管理Service
- * Created by ljj on 2018/8/30.
+ * @Description: 前台订单管理Service
+ * @author LeeJack
+ * @Date 18:51 2019/5/5/005
  */
 @Service
 public class OmsPortalOrderServiceImpl implements OmsPortalOrderService {

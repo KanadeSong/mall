@@ -5,8 +5,9 @@ import com.ljj.mall.model.OmsCompanyAddress;
 import java.util.List;
 
 /**
- * 收货地址管Service
- * Created by macro on 2018/10/18.
+ * @Description: 收货地址管Service
+ * @author LeeJack
+ * @Date 21:57 2019/5/4/004
  */
 public interface OmsCompanyAddressService {
     /**

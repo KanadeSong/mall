@@ -7,8 +7,9 @@ import com.ljj.mall.model.PmsSkuStock;
 import java.util.List;
 
 /**
- * 购物车中选择规格的商品信息
- * Created by ljj on 2018/8/2.
+ * @Description: 购物车中选择规格的商品信息
+ * @author LeeJack
+ * @Date 17:46 2019/5/5/005
  */
 public class CartProduct extends PmsProduct {
     private List<PmsProductAttribute> productAttributeList;

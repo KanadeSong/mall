@@ -13,8 +13,9 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * 限时购商品关联管理Service实现类
- * Created by ljj on 2018/11/16.
+ * @Description: 限时购商品关联管理Service实现类
+ * @author LeeJack
+ * @Date 22:11 2019/5/4/004
  */
 @Service
 public class SmsFlashPromotionProductRelationServiceImpl implements SmsFlashPromotionProductRelationService {

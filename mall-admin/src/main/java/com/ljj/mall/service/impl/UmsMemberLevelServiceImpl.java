@@ -10,8 +10,9 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * 会员等级管理Service实现类
- * Created by ljj on 2018/4/26.
+ * @Description: 会员等级管理Service实现类
+ * @author LeeJack
+ * @Date 22:14 2019/5/4/004
  */
 @Service
 public class UmsMemberLevelServiceImpl implements UmsMemberLevelService{

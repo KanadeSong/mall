@@ -10,8 +10,9 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /**
- * 搜索中的商品信息
- * Created by macro on 2018/6/19.
+ * @Description: 搜索中的商品信息
+ * @author LeeJack
+ * @Date 21:07 2019/5/6/006
  */
 @Document(indexName = "pms", type = "product",shards = 1,replicas = 0)
 public class EsProduct implements Serializable {

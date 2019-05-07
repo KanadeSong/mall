@@ -16,8 +16,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 订单退货申请管理
- * Created by ljj on 2018/10/18.
+ * @Description: 订单退货申请管理
+ * @author LeeJack
+ * @Date 16:53 2019/5/4/004
  */
 @Controller
 @Api(tags = "OmsOrderReturnApplyController", description = "订单退货申请管理")

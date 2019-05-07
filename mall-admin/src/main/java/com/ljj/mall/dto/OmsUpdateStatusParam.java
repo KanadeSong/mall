@@ -7,8 +7,9 @@ import lombok.Setter;
 import java.math.BigDecimal;
 
 /**
- * 确认收货提交参数
- * Created by macro on 2018/10/18.
+ * @Description: 确认收货提交参数
+ * @author LeeJack
+ * @Date 21:44 2019/5/4/004
  */
 @Getter
 @Setter

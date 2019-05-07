@@ -15,8 +15,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 购物车管理Controller
- * Created by ljj on 2018/8/2.
+ * @Description: 购物车管理Controller
+ * @author LeeJack
+ * @Date 19:04 2019/5/5/005
  */
 @Controller
 @Api(tags = "OmsCartItemController", description = "购物车管理")

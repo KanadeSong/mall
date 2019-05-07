@@ -7,8 +7,9 @@ import lombok.Setter;
 import java.math.BigDecimal;
 
 /**
- * 申请退货参数
- * Created by ljj on 2018/10/17.
+ * @Description: 申请退货参数
+ * @author LeeJack
+ * @Date 18:02 2019/5/5/005
  */
 @Getter
 @Setter

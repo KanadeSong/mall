@@ -9,8 +9,9 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * 后台管理员Service
- * Created by macro on 2018/4/26.
+ * @Description: 后台管理员Service
+ * @author LeeJack
+ * @Date 22:00 2019/5/4/004
  */
 public interface UmsAdminService {
     /**

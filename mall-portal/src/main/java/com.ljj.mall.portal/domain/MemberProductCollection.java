@@ -6,8 +6,9 @@ import org.springframework.data.mongodb.core.index.Indexed;
 import java.util.Date;
 
 /**
- * 用户收藏的商品
- * Created by ljj on 2018/8/2.
+ * @Description: 用户收藏的商品
+ * @author LeeJack
+ * @Date 17:59 2019/5/5/005
  */
 public class MemberProductCollection {
     @Id

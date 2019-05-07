@@ -8,8 +8,9 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * 购物车管理Service
- * Created by ljj on 2018/8/2.
+ * @Description: 购物车管理Service
+ * @author LeeJack
+ * @Date 18:46 2019/5/5/005
  */
 public interface OmsCartItemService {
     /**

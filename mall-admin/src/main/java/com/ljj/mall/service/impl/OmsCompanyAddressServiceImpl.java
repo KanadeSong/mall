@@ -10,8 +10,9 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * 收货地址管理Service实现类
- * Created by macro on 2018/10/18.
+ * @Description: 收货地址管理Service实现类
+ * @author LeeJack
+ * @Date 22:09 2019/5/4/004
  */
 @Service
 public class OmsCompanyAddressServiceImpl implements OmsCompanyAddressService {

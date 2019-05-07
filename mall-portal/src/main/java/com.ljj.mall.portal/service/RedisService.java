@@ -1,9 +1,9 @@
 package com.ljj.mall.portal.service;
 
 /**
- * redis操作Service,
- * 对象和数组都以json形式进行存储
- * Created by ljj on 2018/8/7.
+ * @Description: redis操作Service,对象和数组都以json形式进行存储
+ * @author LeeJack
+ * @Date 18:47 2019/5/5/005
  */
 public interface RedisService {
     /**

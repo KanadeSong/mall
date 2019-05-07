@@ -6,8 +6,9 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 import java.util.List;
 
 /**
- * 会员关注Repository
- * Created by ljj on 2018/8/2.
+ * @Description: 会员关注Repository
+ * @author LeeJack
+ * @Date 17:44 2019/5/5/005
  */
 public interface MemberBrandAttentionRepository extends MongoRepository<MemberBrandAttention, String> {
     MemberBrandAttention findByMemberIdAndBrandId(Long memberId , Long brandId);

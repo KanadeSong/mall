@@ -16,8 +16,9 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * 订单退货管理Service
- * Created by ljj on 2018/10/18.
+ * @Description: 订单退货管理Service
+ * @author LeeJack
+ * @Date 22:09 2019/5/4/004
  */
 @Service
 public class OmsOrderReturnApplyServiceImpl implements OmsOrderReturnApplyService {

@@ -12,8 +12,9 @@ import org.springframework.util.StringUtils;
 import java.util.List;
 
 /**
- * 商品专题Service实现类
- * Created by macro on 2018/6/1.
+ * @Description: 商品专题Service实现类
+ * @author LeeJack
+ * @Date 22:07 2019/5/4/004
  */
 @Service
 public class CmsSubjectServiceImpl implements CmsSubjectService {

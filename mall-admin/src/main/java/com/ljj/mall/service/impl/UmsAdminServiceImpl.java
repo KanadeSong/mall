@@ -37,8 +37,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * UmsAdminService实现类
- * Created by ljj on 2018/4/26.
+ * @Description: UmsAdminService实现类
+ * @author LeeJack
+ * @Date 22:14 2019/5/4/004
  */
 @Service
 public class UmsAdminServiceImpl implements UmsAdminService {

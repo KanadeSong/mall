@@ -7,7 +7,8 @@ import lombok.Setter;
 import java.util.List;
 
 /**
- * Created by ljj on 2018/9/30.
+ * @author LeeJack
+ * @Date 21:47 2019/5/4/004
  */
 public class UmsPermissionNode extends UmsPermission {
     @Getter

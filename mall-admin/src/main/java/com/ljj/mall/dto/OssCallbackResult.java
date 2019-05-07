@@ -1,7 +1,8 @@
 package com.ljj.mall.dto;
 
 /**
- * Created by macro on 2018/5/17.
+ * @author LeeJack
+ * @Date 21:45 2019/5/4/004
  */
 public class OssCallbackResult {
     private String filename;

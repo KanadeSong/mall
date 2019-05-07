@@ -18,7 +18,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by ljj on 2018/5/17.
+ * @author LeeJack
+ * @Date 22:10 2019/5/4/004
  */
 @Service
 public class OssServiceImpl implements OssService {

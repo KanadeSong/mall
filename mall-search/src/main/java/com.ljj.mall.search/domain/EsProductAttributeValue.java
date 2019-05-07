@@ -6,8 +6,9 @@ import org.springframework.data.elasticsearch.annotations.FieldType;
 import java.io.Serializable;
 
 /**
- * 搜索中的商品属性信息
- * Created by macro on 2018/6/27.
+ * @Description: 搜索中的商品属性信息
+ * @author LeeJack
+ * @Date 21:11 2019/5/6/006
  */
 public class EsProductAttributeValue implements Serializable {
     private static final long serialVersionUID = 1L;

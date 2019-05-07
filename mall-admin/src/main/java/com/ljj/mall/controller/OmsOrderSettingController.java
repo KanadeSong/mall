@@ -10,8 +10,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * 订单设置Controller
- * Created by ljj on 2018/10/16.
+ * @Description: 订单设置Controller
+ * @author LeeJack
+ * @Date 18:22 2019/5/4/004
  */
 @Controller
 @Api(tags = "OmsOrderSettingController", description = "订单设置管理")

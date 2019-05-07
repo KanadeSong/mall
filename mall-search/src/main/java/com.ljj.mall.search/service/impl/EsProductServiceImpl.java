@@ -36,10 +36,10 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-
 /**
- * 商品搜索管理Service实现类
- * Created by ljj on 2018/6/19.
+ * @Description: 商品搜索管理Service实现类
+ * @author LeeJack
+ * @Date 21:23 2019/5/6/006
  */
 @Service
 public class EsProductServiceImpl implements EsProductService {

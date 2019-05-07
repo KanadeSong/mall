@@ -14,8 +14,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * 后台用户权限管理Service实现类
- * Created by ljj on 2018/9/29.
+ * @Description: 后台用户权限管理Service实现类
+ * @author LeeJack
+ * @Date 22:14 2019/5/4/004
  */
 @Service
 public class UmsPermissionServiceImpl implements UmsPermissionService {

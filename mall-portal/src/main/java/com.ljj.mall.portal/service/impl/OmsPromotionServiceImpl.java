@@ -17,8 +17,9 @@ import java.math.RoundingMode;
 import java.util.*;
 
 /**
- * Created by ljj on 2018/8/27.
- * 促销管理Service实现类
+ * @Description: 促销管理Service实现类
+ * @author LeeJack
+ * @Date 18:51 2019/5/5/005
  */
 @Service
 public class OmsPromotionServiceImpl implements OmsPromotionService {

@@ -1,6 +1,8 @@
 package com.ljj.mall.config;
 
 import com.aliyun.oss.OSSClient;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -20,6 +22,13 @@ public class OssConfig {
     private String ALIYUN_OSS_ACCESSKEYID;
     @Value("${aliyun.oss.accessKeySecret}")
     private String ALIYUN_OSS_ACCESSKEYSECRET;
+
+    private static final Logger logger = LoggerFactory.getLogger(OssConfig.class);
+
+    public OssConfig() {
+        logger.info("OssConfig启动");
+    }
+
     @Bean
     public OSSClient ossClient(){
         return new OSSClient(ALIYUN_OSS_ENDPOINT,ALIYUN_OSS_ACCESSKEYID,ALIYUN_OSS_ACCESSKEYSECRET);

@@ -8,8 +8,9 @@ import com.ljj.mall.model.OmsOrderReturnApply;
 import java.util.List;
 
 /**
- * 退货申请管理Service
- * Created by macro on 2018/10/18.
+ * @Description: 退货申请管理Service
+ * @author LeeJack
+ * @Date 21:57 2019/5/4/004
  */
 public interface OmsOrderReturnApplyService {
     /**

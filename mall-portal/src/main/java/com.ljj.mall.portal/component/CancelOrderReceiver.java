@@ -9,8 +9,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 /**
- * 取消订单消息的处理者
- * Created by ljj on 2018/9/14.
+ * @Description: 取消订单消息的处理者
+ * @author LeeJack
+ * @Date 18:08 2019/5/5/005
  */
 @Component
 @RabbitListener(queues = "mall.order.cancel")

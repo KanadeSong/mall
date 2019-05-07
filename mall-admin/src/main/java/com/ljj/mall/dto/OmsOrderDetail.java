@@ -8,9 +8,11 @@ import lombok.Setter;
 
 import java.util.List;
 
+
 /**
- * 订单详情信息
- * Created by ljj on 2018/10/11.
+ * @Description: 订单详情信息
+ * @author LeeJack
+ * @Date 21:42 2019/5/4/004
  */
 public class OmsOrderDetail extends OmsOrder {
     @Getter

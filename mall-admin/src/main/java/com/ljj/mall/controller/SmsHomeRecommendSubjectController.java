@@ -13,8 +13,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 首页专题推荐管理Controller
- * Created by ljj on 2018/11/6.
+ * @Description: 首页专题推荐管理Controller
+ * @author LeeJack
+ * @Date 18:45 2019/5/4/004
  */
 @Controller
 @Api(tags = "SmsHomeRecommendSubjectController", description = "首页专题推荐管理")

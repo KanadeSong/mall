@@ -7,8 +7,9 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /**
- * 确认单信息封装
- * Created by ljj on 2018/8/30.
+ * @Description: 确认单信息封装
+ * @author LeeJack
+ * @Date 17:48 2019/5/5/005
  */
 public class ConfirmOrderResult {
     //包含优惠信息的购物车信息

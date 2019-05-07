@@ -9,8 +9,9 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * 用户优惠券管理Service
- * Created by ljj on 2018/8/29.
+ * @Description: 用户优惠券管理Service
+ * @author LeeJack
+ * @Date 18:48 2019/5/5/005
  */
 public interface UmsMemberCouponService {
     /**

@@ -17,8 +17,9 @@ import org.springframework.util.StringUtils;
 import java.util.List;
 
 /**
- * 商品品牌Service实现类
- * Created by ljj on 2018/4/26.
+ * @Description: 商品品牌Service实现类
+ * @author LeeJack
+ * @Date 22:10 2019/5/4/004
  */
 @Service
 public class PmsBrandServiceImpl implements PmsBrandService {

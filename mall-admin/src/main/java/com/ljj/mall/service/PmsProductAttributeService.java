@@ -8,8 +8,9 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * 商品属性Service
- * Created by macro on 2018/4/26.
+ * @Description: 商品属性Service
+ * @author LeeJack
+ * @Date 21:58 2019/5/4/004
  */
 public interface PmsProductAttributeService {
     /**

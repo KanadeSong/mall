@@ -3,8 +3,9 @@ package com.ljj.mall.dto;
 import io.swagger.annotations.ApiModelProperty;
 
 /**
- * 产品查询参数
- * Created by macro on 2018/4/27.
+ * @Description: 产品查询参数
+ * @author LeeJack
+ * @Date 21:46 2019/5/4/004
  */
 public class PmsProductQueryParam {
     @ApiModelProperty("上架状态")

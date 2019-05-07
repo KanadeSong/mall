@@ -13,8 +13,9 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * 后台角色管理Service实现类
- * Created by ljj on 2018/9/30.
+ * @Description: 后台角色管理Service实现类
+ * @author LeeJack
+ * @Date 22:14 2019/5/4/004
  */
 @Service
 public class UmsRoleServiceImpl implements UmsRoleService {

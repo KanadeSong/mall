@@ -8,8 +8,9 @@ import com.ljj.mall.model.PmsSkuStock;
 import java.util.List;
 
 /**
- * Created by ljj on 2018/8/27.
- * 商品的促销信息，包括sku、打折优惠、满减优惠
+ * @Description: 商品的促销信息，包括sku、打折优惠、满减优惠
+ * @author LeeJack
+ * @Date 18:02 2019/5/5/005
  */
 public class PromotionProduct extends PmsProduct {
     //商品库存信息

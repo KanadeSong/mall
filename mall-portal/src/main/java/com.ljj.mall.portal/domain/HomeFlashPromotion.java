@@ -7,8 +7,9 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * 首页当前秒杀场次信息
- * Created by ljj on 2019/1/28.
+ * @Description: 首页当前秒杀场次信息
+ * @author LeeJack
+ * @Date 17:50 2019/5/5/005
  */
 @Getter
 @Setter

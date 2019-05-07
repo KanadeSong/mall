@@ -8,11 +8,10 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 import org.springframework.http.converter.json.Jackson2ObjectMapperBuilder;
 
-
 /**
- * Jackson配置类
- * json不返回null的字段
- * Created by ljj on 2018/8/2.
+ * @Description: Jackson配置类 ，json不返回null的字段
+ * @author LeeJack
+ * @Date 18:04 2019/5/5/005
  */
 @Configuration
 public class JacksonConfig {

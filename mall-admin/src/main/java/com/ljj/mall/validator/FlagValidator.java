@@ -5,8 +5,11 @@ import javax.validation.Payload;
 import java.lang.annotation.*;
 
 /**
- * 用户验证状态是否在指定范围内的注解
- * Created by macro on 2018/4/26.
+ * @Description: 用户验证状态是否在指定范围内的注解
+ * @Param
+ * @return
+ * @author LeeJack
+ * @Date 21:14 2019/5/4/004
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

@@ -16,8 +16,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 搜索商品管理Controller
- * Created by ljj on 2018/6/19.
+ * @Description: 搜索商品管理Controller
+ * @author LeeJack
+ * @Date 21:18 2019/5/6/006
  */
 @Controller
 @Api(tags = "EsProductController", description = "搜索商品管理")

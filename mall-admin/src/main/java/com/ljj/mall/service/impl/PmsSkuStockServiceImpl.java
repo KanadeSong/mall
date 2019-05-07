@@ -12,8 +12,9 @@ import org.springframework.util.StringUtils;
 import java.util.List;
 
 /**
- * 商品sku库存管理Service实现类
- * Created by ljj on 2018/4/27.
+ * @Description: 商品sku库存管理Service实现类
+ * @author LeeJack
+ * @Date 22:11 2019/5/4/004
  */
 @Service
 public class PmsSkuStockServiceImpl implements PmsSkuStockService {

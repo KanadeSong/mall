@@ -7,8 +7,9 @@ import org.springframework.data.mongodb.core.mapping.Document;
 import java.util.Date;
 
 /**
- * 会员关注的品牌
- * Created by ljj on 2018/8/2.
+ * @Description: 会员关注的品牌
+ * @author LeeJack
+ * @Date 17:50 2019/5/5/005
  */
 @Document
 public class MemberBrandAttention {

@@ -19,8 +19,9 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * JWT登录授权过滤器
- * Created by macro on 2018/4/26.
+ * @Description: JWT登录授权过滤器
+ * @author LeeJack
+ * @Date 21:17 2019/5/4/004
  */
 public class JwtAuthenticationTokenFilter extends OncePerRequestFilter {
     private static final Logger LOGGER = LoggerFactory.getLogger(JwtAuthenticationTokenFilter.class);

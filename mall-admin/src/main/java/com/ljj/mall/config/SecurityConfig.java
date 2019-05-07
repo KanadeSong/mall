@@ -7,6 +7,8 @@ import com.ljj.mall.component.RestfulAccessDeniedHandler;
 import com.ljj.mall.model.UmsAdmin;
 import com.ljj.mall.model.UmsPermission;
 import com.ljj.mall.service.UmsAdminService;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
@@ -41,12 +43,19 @@ import java.util.List;
 @EnableWebSecurity
 @EnableGlobalMethodSecurity(prePostEnabled = true)
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
+
+    private static final Logger logger = LoggerFactory.getLogger(SecurityConfig.class);
+
     @Autowired
     private UmsAdminService adminService;
     @Autowired
     private RestfulAccessDeniedHandler restfulAccessDeniedHandler;
     @Autowired
     private RestAuthenticationEntryPoint restAuthenticationEntryPoint;
+
+    public SecurityConfig() {
+        logger.info("SecurityConfig启动");
+    }
 
     @Override
     protected void configure(HttpSecurity httpSecurity) throws Exception {

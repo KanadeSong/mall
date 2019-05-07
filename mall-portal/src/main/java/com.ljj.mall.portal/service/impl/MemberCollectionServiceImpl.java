@@ -9,8 +9,9 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * 会员收藏Service实现类
- * Created by ljj on 2018/8/2.
+ * @Description: 会员收藏Service实现类
+ * @author LeeJack
+ * @Date 18:49 2019/5/5/005
  */
 @Service
 public class MemberCollectionServiceImpl implements MemberCollectionService {

@@ -5,8 +5,9 @@ import com.ljj.mall.model.SmsHomeAdvertise;
 import java.util.List;
 
 /**
- * 首页广告管理Service
- * Created by macro on 2018/11/7.
+ * @Description: 首页广告管理Service
+ * @author LeeJack
+ * @Date 21:59 2019/5/4/004
  */
 public interface SmsHomeAdvertiseService {
     /**

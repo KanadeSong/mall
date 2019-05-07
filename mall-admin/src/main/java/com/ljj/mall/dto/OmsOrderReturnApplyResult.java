@@ -6,8 +6,9 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * 申请信息封装
- * Created by ljj on 2018/10/18.
+ * @Description: 申请信息封装
+ * @author LeeJack
+ * @Date 21:44 2019/5/4/004
  */
 public class OmsOrderReturnApplyResult extends OmsOrderReturnApply {
     @Getter

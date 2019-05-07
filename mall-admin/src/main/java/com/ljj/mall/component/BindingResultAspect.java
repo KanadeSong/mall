@@ -11,14 +11,15 @@ import org.springframework.validation.BindingResult;
 import org.springframework.validation.FieldError;
 
 /**
- * HibernateValidator错误结果处理切面
- * Created by macro on 2018/4/26.
+ * @Description: HibernateValidator错误结果处理切面
+ * @author LeeJack
+ * @Date 20:28 2019/5/4/004
  */
 @Aspect
 @Component
 @Order(2)
 public class BindingResultAspect {
-    @Pointcut("execution(public * com.macro.mall.controller.*.*(..))")
+    @Pointcut("execution(public * com.ljj.mall.controller.*.*(..))")
     public void BindingResult() {
     }
 
@@ -26,7 +27,9 @@ public class BindingResultAspect {
     public Object doAround(ProceedingJoinPoint joinPoint) throws Throwable {
         Object[] args = joinPoint.getArgs();
         for (Object arg : args) {
+            //遍历被通知方法(controller方法)的参数列表
             if (arg instanceof BindingResult) {
+                //参数校验结果会存放在BindingResult中
                 BindingResult result = (BindingResult) arg;
                 if (result.hasErrors()) {
                     FieldError fieldError = result.getFieldError();

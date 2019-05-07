@@ -4,8 +4,9 @@ import java.util.Calendar;
 import java.util.Date;
 
 /**
- * 日期工具类
- * Created by macro on 2019/1/29.
+ * @Description: 日期工具类
+ * @author LeeJack
+ * @Date 17:42 2019/5/5/005
  */
 public class DateUtil {
 

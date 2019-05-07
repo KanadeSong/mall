@@ -6,8 +6,9 @@ import com.ljj.mall.model.UmsPermission;
 import java.util.List;
 
 /**
- * 后台用户权限管理Service
- * Created by macro on 2018/9/29.
+ * @Description: 后台用户权限管理Service
+ * @author LeeJack
+ * @Date 22:00 2019/5/4/004
  */
 public interface UmsPermissionService {
     /**

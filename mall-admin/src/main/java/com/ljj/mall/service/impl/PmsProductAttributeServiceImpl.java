@@ -17,8 +17,9 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * 商品属性Service实现类
- * Created by ljj on 2018/4/26.
+ * @Description: 商品属性Service实现类
+ * @author LeeJack
+ * @Date 22:11 2019/5/4/004
  */
 @Service
 public class PmsProductAttributeServiceImpl implements PmsProductAttributeService {

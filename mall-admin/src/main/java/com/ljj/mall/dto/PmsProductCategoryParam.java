@@ -8,8 +8,9 @@ import javax.validation.constraints.Min;
 import java.util.List;
 
 /**
- * 添加更新产品分类的参数
- * Created by macro on 2018/4/26.
+ * @Description: 添加更新产品分类的参数
+ * @author LeeJack
+ * @Date 21:46 2019/5/4/004
  */
 public class PmsProductCategoryParam {
     @ApiModelProperty("父分类的编号")

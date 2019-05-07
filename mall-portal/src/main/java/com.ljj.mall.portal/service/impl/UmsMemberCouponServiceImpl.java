@@ -19,8 +19,9 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * 会员优惠券管理Service实现类
- * Created by ljj on 2018/8/29.
+ * @Description: 会员优惠券管理Service实现类
+ * @author LeeJack
+ * @Date 18:51 2019/5/5/005
  */
 @Service
 public class UmsMemberCouponServiceImpl implements UmsMemberCouponService {

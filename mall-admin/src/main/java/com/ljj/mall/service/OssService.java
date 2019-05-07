@@ -6,8 +6,9 @@ import com.ljj.mall.dto.OssPolicyResult;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * oss上传管理Service
- * Created by macro on 2018/5/17.
+ * @Description: oss上传管理Service
+ * @author LeeJack
+ * @Date 21:57 2019/5/4/004
  */
 public interface OssService {
     OssPolicyResult policy();

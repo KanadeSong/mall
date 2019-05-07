@@ -5,8 +5,9 @@ import io.swagger.annotations.ApiModelProperty;
 import org.hibernate.validator.constraints.NotEmpty;
 
 /**
- * 商品属性参数
- * Created by ljj on 2018/4/26.
+ * @Description: 商品属性参数
+ * @author LeeJack
+ * @Date 21:45 2019/5/4/004
  */
 public class PmsProductAttributeParam {
     @ApiModelProperty("属性分类ID")

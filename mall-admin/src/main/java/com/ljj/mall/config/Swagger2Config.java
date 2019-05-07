@@ -1,5 +1,7 @@
 package com.ljj.mall.config;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import springfox.documentation.builders.ApiInfoBuilder;
@@ -27,6 +29,12 @@ import java.util.List;
 @Configuration
 @EnableSwagger2
 public class Swagger2Config {
+    private static final Logger logger = LoggerFactory.getLogger(Swagger2Config.class);
+
+    public Swagger2Config() {
+        logger.info("Swagger2Config启动");
+    }
+
     @Bean
     public Docket createRestApi(){
         return new Docket(DocumentationType.SWAGGER_2)

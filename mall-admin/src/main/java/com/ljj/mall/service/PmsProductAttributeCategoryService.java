@@ -6,8 +6,9 @@ import com.ljj.mall.model.PmsProductAttributeCategory;
 import java.util.List;
 
 /**
- * 商品属性分类Service
- * Created by macro on 2018/4/26.
+ * @Description: 商品属性分类Service
+ * @author LeeJack
+ * @Date 21:58 2019/5/4/004
  */
 public interface PmsProductAttributeCategoryService {
     int create(String name);

@@ -6,8 +6,9 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 import java.util.List;
 
 /**
- * 会员商品浏览历史Repository
- * Created by ljj on 2018/8/3.
+ * @Description: 会员商品浏览历史Repository
+ * @author LeeJack
+ * @Date 17:46 2019/5/5/005
  */
 public interface MemberReadHistoryRepository extends MongoRepository<MemberReadHistory, String> {
     List<MemberReadHistory> findByMemberIdOrderByCreateTimeDesc(Long memberId);

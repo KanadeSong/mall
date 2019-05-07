@@ -9,8 +9,9 @@ import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by ljj on 2018/8/24.
- * 订单超时取消并解锁库存的定时器
+ * @Description: 订单超时取消并解锁库存的定时器
+ * @author LeeJack
+ * @Date 18:44 2019/5/5/005
  */
 @Component
 public class OrderTimeOutCancelTask {

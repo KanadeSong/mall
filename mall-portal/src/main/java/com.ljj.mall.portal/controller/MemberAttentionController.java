@@ -12,8 +12,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 会员关注品牌管理Controller
- * Created by ljj on 2018/8/2.
+ * @Description: 会员关注品牌管理Controller
+ * @author LeeJack
+ * @Date 19:03 2019/5/5/005
  */
 @Controller
 @Api(tags = "MemberAttentionController", description = "会员关注品牌管理")

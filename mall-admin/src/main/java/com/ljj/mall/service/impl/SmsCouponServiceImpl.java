@@ -17,8 +17,9 @@ import org.springframework.util.StringUtils;
 import java.util.List;
 
 /**
- * 优惠券管理Service实现类
- * Created by ljj on 2018/8/28.
+ * @Description: 优惠券管理Service实现类
+ * @author LeeJack
+ * @Date 22:11 2019/5/4/004
  */
 @Service
 public class SmsCouponServiceImpl implements SmsCouponService {

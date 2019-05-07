@@ -13,8 +13,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 退货原因管理Controller
- * Created by ljj on 2018/10/17.
+ * @Description: 退货原因管理Controller
+ * @author LeeJack
+ * @Date 18:22 2019/5/4/004
  */
 @Controller
 @Api(tags = "OmsOrderReturnReasonController", description = "退货原因管理")

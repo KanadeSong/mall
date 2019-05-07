@@ -13,8 +13,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 后台用户权限管理
- * Created by ljj on 2018/9/29.
+ * @Description: 后台用户权限管理
+ * @author LeeJack
+ * @Date 18:47 2019/5/4/004
  */
 @Controller
 @Api(tags = "UmsPermissionController", description = "后台用户权限管理")

@@ -13,8 +13,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 首页新品管理Controller
- * Created by ljj on 2018/11/6.
+ * @Description: 首页新品管理Controller
+ * @author LeeJack
+ * @Date 18:43 2019/5/4/004
  */
 @Controller
 @Api(tags = "SmsHomeNewProductController", description = "首页新品管理")

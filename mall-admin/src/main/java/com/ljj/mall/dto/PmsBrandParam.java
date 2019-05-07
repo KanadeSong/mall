@@ -7,8 +7,9 @@ import org.hibernate.validator.constraints.NotEmpty;
 import javax.validation.constraints.Min;
 
 /**
- * 品牌传递参数
- * Created by ljj on 2018/4/26.
+ * @Description: 品牌传递参数
+ * @author LeeJack
+ * @Date 21:45 2019/5/4/004
  */
 public class PmsBrandParam {
     @ApiModelProperty(value = "品牌名称",required = true)

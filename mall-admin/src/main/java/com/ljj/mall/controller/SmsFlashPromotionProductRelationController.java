@@ -14,8 +14,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 限时购和商品关系管理Controller
- * Created by ljj on 2018/11/16.
+ * @Description: 限时购和商品关系管理Controller
+ * @author LeeJack
+ * @Date 18:41 2019/5/4/004
  */
 @Controller
 @Api(tags = "SmsFlashPromotionProductRelationController", description = "限时购和商品关系管理")

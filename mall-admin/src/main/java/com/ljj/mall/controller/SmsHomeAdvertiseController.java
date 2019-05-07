@@ -13,8 +13,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 首页轮播广告管理Controller
- * Created by ljj on 2018/11/7.
+ * @Description: 首页轮播广告管理Controller
+ * @author LeeJack
+ * @Date 18:42 2019/5/4/004
  */
 @Controller
 @Api(tags = "SmsHomeAdvertiseController", description = "首页轮播广告管理")

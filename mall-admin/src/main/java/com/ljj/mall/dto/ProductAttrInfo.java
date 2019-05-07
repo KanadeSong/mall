@@ -1,9 +1,9 @@
 package com.ljj.mall.dto;
 
-
 /**
- * 商品分类对应属性信息
- * Created by macro on 2018/5/23.
+ * @Description: 商品分类对应属性信息
+ * @author LeeJack
+ * @Date 21:46 2019/5/4/004
  */
 public class ProductAttrInfo {
     private Long attributeId;

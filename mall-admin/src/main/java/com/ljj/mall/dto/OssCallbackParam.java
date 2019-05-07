@@ -1,7 +1,9 @@
 package com.ljj.mall.dto;
 
 /**
- * Created by macro on 2018/5/17.
+ * @Description: OssCallbackParam
+ * @author LeeJack
+ * @Date 21:44 2019/5/4/004
  */
 public class OssCallbackParam {
     private String callbackUrl;

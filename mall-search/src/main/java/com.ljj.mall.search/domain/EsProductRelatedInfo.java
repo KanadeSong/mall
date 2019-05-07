@@ -3,8 +3,9 @@ package com.ljj.mall.search.domain;
 import java.util.List;
 
 /**
- * 搜索相关商品品牌名称，分类名称及属性
- * Created by macro on 2018/6/27.
+ * @Description: 搜索相关商品品牌名称，分类名称及属性
+ * @author LeeJack
+ * @Date 21:12 2019/5/6/006
  */
 public class EsProductRelatedInfo {
     private List<String> brandNames;

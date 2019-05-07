@@ -7,8 +7,9 @@ import lombok.Setter;
 import java.math.BigDecimal;
 
 /**
- * 秒杀信息和商品对象封装
- * Created by ljj on 2019/1/28.
+ * @Description: 秒杀信息和商品对象封装
+ * @author LeeJack
+ * @Date 17:48 2019/5/5/005
  */
 @Getter
 @Setter

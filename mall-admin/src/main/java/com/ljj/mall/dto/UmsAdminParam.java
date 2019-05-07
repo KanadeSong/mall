@@ -7,8 +7,9 @@ import org.hibernate.validator.constraints.Email;
 import org.hibernate.validator.constraints.NotEmpty;
 
 /**
- * 用户登录参数
- * Created by macro on 2018/4/26.
+ * @Description: 用户登录参数
+ * @author LeeJack
+ * @Date 21:47 2019/5/4/004
  */
 @Getter
 @Setter

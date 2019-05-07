@@ -5,8 +5,9 @@ import com.ljj.mall.portal.domain.MemberReadHistory;
 import java.util.List;
 
 /**
- * 会员浏览记录管理Service
- * Created by ljj on 2018/8/3.
+ * @Description: 会员浏览记录管理Service
+ * @author LeeJack
+ * @Date 18:46 2019/5/5/005
  */
 public interface MemberReadHistoryService {
     /**

@@ -12,8 +12,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * 会员收货地址管理Controller
- * Created by ljj on 2018/8/28.
+ * @Description: 会员收货地址管理Controller
+ * @author LeeJack
+ * @Date 19:05 2019/5/5/005
  */
 @Controller
 @Api(tags = "UmsMemberReceiveAddressController", description = "会员收货地址管理")

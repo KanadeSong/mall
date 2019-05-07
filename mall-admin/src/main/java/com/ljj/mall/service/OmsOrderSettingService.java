@@ -3,8 +3,9 @@ package com.ljj.mall.service;
 import com.ljj.mall.model.OmsOrderSetting;
 
 /**
- * 订单设置Service
- * Created by macro on 2018/10/16.
+ * @Description: 订单设置Service
+ * @author LeeJack
+ * @Date 21:57 2019/5/4/004
  */
 public interface OmsOrderSettingService {
     /**

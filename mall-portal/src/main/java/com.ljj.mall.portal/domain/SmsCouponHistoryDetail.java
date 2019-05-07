@@ -8,8 +8,9 @@ import com.ljj.mall.model.SmsCouponProductRelation;
 import java.util.List;
 
 /**
- * 优惠券领取历史详情封装
- * Created by ljj on 2018/8/29.
+ * @Description: 优惠券领取历史详情封装
+ * @author LeeJack
+ * @Date 18:03 2019/5/5/005
  */
 public class SmsCouponHistoryDetail extends SmsCouponHistory {
     //相关优惠券信息

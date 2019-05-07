@@ -6,8 +6,9 @@ import com.ljj.mall.model.OmsOrderItem;
 import java.util.List;
 
 /**
- * 包含订单商品信息的订单详情
- * Created by ljj on 2018/9/4.
+ * @Description: 包含订单商品信息的订单详情
+ * @author LeeJack
+ * @Date 18:02 2019/5/5/005
  */
 public class OmsOrderDetail extends OmsOrder {
     private List<OmsOrderItem> orderItemList;

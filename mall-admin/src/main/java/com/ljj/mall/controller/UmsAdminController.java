@@ -23,8 +23,9 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * 后台用户管理
- * Created by ljj on 2018/4/26.
+ * @Description: 后台用户管理
+ * @author LeeJack
+ * @Date 18:46 2019/5/4/004
  */
 @Controller
 @Api(tags = "UmsAdminController", description = "后台用户管理")

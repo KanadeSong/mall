@@ -3,8 +3,9 @@ package com.ljj.mall.portal.domain;
 import lombok.Getter;
 
 /**
- * 消息队列枚举配置
- * Created by ljj on 2018/9/14.
+ * @Description: 消息队列枚举配置
+ * @author LeeJack
+ * @Date 18:03 2019/5/5/005
  */
 @Getter
 public enum QueueEnum {

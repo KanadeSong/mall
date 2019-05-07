@@ -5,8 +5,9 @@ import com.ljj.mall.model.CmsSubject;
 import java.util.List;
 
 /**
- * 商品专题Service
- * Created by macro on 2018/6/1.
+ * @Description: 商品专题Service
+ * @author LeeJack
+ * @Date 21:56 2019/5/4/004
  */
 public interface CmsSubjectService {
     /**

@@ -12,8 +12,11 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * 当访问接口没有权限时，自定义的返回结果
- * Created by macro on 2018/4/26.
+ * @Description: 当访问接口没有权限时，自定义的返回结果
+ * @Param
+ * @return
+ * @author LeeJack
+ * @Date 21:27 2019/5/4/004
  */
 @Component
 public class RestfulAccessDeniedHandler implements AccessDeniedHandler {

@@ -5,8 +5,9 @@ import com.ljj.mall.model.OmsOrderReturnReason;
 import java.util.List;
 
 /**
- * 订单原因管理Service
- * Created by macro on 2018/10/17.
+ * @Description: 订单原因管理Service
+ * @author LeeJack
+ * @Date 21:57 2019/5/4/004
  */
 public interface OmsOrderReturnReasonService {
     /**

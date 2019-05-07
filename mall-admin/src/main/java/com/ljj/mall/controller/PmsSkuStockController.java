@@ -12,8 +12,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * sku库存Controller
- * Created by ljj on 2018/4/27.
+ * @Description: sku库存Controller
+ * @author LeeJack
+ * @Date 18:40 2019/5/4/004
  */
 @Controller
 @Api(tags = "PmsSkuStockController", description = "sku商品库存管理")

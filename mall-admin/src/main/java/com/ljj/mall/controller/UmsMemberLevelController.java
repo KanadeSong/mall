@@ -15,8 +15,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.util.List;
 
 /**
- * 会员等级管理Controller
- * Created by ljj on 2018/4/26.
+ * @Description: 会员等级管理Controller
+ * @author LeeJack
+ * @Date 18:46 2019/5/4/004
  */
 @Controller
 @Api(tags = "UmsMemberLevelController", description = "会员等级管理")
